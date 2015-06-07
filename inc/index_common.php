@@ -53,3 +53,23 @@
 	</div>
 </div>
 <?php include 'modals_common.php'; ?>
+
+<!-- Out Standing News -->
+<div id="outstanding" class="hidden-xs">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12" id="fpsection">
+				<p class="adimaget">Out-Standing news</p>
+				<div class="col-md-4">
+					<textarea readonly class="form-control" rows="5" id="outstxt">Buenas</textarea>					
+				</div>
+				<div class="col-md-4">
+					<textarea readonly class="form-control" rows="5" id="outstxt">Buenas</textarea>
+				</div>	
+				<div class="col-md-4">
+					<textarea readonly class="form-control" rows="5" id="outstxt"></textarea>				
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

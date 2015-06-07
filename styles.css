@@ -10,7 +10,6 @@ padding-top: 90px;
 #AdSection
 {
 	background-color: #ECF0F1;
-	height: 155px;
 	font-family: 'Lato', sans-serif;
 
 }
@@ -152,7 +151,7 @@ padding-top: 0px;
 
 #addisplay
 {
-	height: 85px;
+	height: 102px;
 	width: 75%;
 	background-color: white;
 	border: 1px solid black;
@@ -222,4 +221,15 @@ textarea
 {
 	font-size: 16px;
 	width: 50%;
+}
+
+#outstanding
+{
+	background-color: #ECF0F1;
+	margin-bottom: 15px;
+}
+
+#outstxt
+{
+	border :1px solid black;
 }

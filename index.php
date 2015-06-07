@@ -40,6 +40,7 @@
 				<li class="tools"><a>Tools</a></li>
 				<li class="ltrd"><a>Lottery RD</a></li>
 				<li class="ltusa"><a>Lottery USA</a></li>
+
 			</ul>
 			<form action="../login/php/logout.php">
 				<input type="submit" name="" value="Logout" class="btn btn-default" id="btnend">
