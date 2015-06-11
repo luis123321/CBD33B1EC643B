@@ -4,7 +4,7 @@
 				<div class="col-md-12">
 					<div class="lt" id="titles">
 					<h2>
-						AH
+						NY Mega Millons
 					</h2>
 					
 					</div>
@@ -18,7 +18,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Pega 3 Más
+						NY Powers Ball
 					</h2>
 					
 					</div>
@@ -32,7 +32,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Super Kino TV
+						NY Lotto
 					</h2>
 					
 					</div>
@@ -46,7 +46,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Quiniela Leidsa
+						NY CASH 4Live
 					</h2>
 					
 					</div>
@@ -60,7 +60,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Loto - Loto Más
+						TAKE 5
 					</h2>
 					
 					</div>
@@ -74,7 +74,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Quiniela Real
+						Pick 3
 					</h2>
 					
 					</div>
@@ -88,7 +88,7 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Super Loto Real
+						WIN 4
 					</h2>
 					
 					</div>
@@ -116,7 +116,21 @@
 				<div class="col-md-12">
 					<div class="lt">
 					<h2 id="titles">
-						Quiniela Loteka
+						Pick 10
+					</h2>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="ltcontainer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="lt">
+					<h2 id="titles">
+						Sweet Millons
 					</h2>
 					
 					</div>

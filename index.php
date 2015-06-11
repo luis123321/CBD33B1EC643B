@@ -8,11 +8,9 @@
 		$user = $_SESSION['user'];
 
 	}else{
-		header('Location: ../login/index.php');
+		header('Location: ../97A5B63AAF2BFDEELOGIN/index.php');
 		die();
 	}
-
-
  ?>
 
 
@@ -42,9 +40,12 @@
 				<li class="ltusa"><a>Lottery USA</a></li>
 
 			</ul>
-			<form action="../login/php/logout.php">
-				<input type="submit" name="" value="Logout" class="btn btn-default" id="btnend">
-			</form>
+			
+				<form action="../97A5B63AAF2BFDEELOGIN/php/logout.php" method="post" accept-charset="utf-8">
+					<input type="submit" name="btnend" value="Logout" class="btn btn-default" id="btnend">
+				</form>
+				
+			
 			<a href="#" id="mobile-menu-button" class="btn btn-default visible-xs">
 					<span class="glyphicon glyphicon-th-list"></span> 
 				</a>

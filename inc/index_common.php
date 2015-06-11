@@ -25,7 +25,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12" id="fpsection">
-				<p class="fptitle">FONT PAGE TEXT</p>
+				<p class="fptitle">FRONT PAGE NEWS</p>
 				<div class="col-md-4">
 					<p class="fptiles">YourLoteria</p>
 					<textarea readonly class="form-control" rows="4"></textarea>
@@ -59,15 +59,15 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12" id="fpsection">
-				<p class="adimaget">Out-Standing news</p>
+				<p class="otn">Out-Standing news</p>
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt">Buenas</textarea>					
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>					
 				</div>
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt">Buenas</textarea>
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>
 				</div>	
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt"></textarea>				
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>				
 				</div>
 			</div>
 		</div>

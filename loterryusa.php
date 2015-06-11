@@ -31,7 +31,7 @@
 				<div class="col-md-12" id="titles">
 					<div class="lt">
 					<h2>
-						Lotería Nacional
+						Lotería Nacionalsad
 					</h2>
 					
 					</div>
