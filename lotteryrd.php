@@ -28,7 +28,7 @@
 	<section id="ltcontainer">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 col-xs-12">
 					<div class="lt" id="titles">
 					<h2>
 						Lotería Nacional
@@ -42,7 +42,7 @@
 	<section id="ltcontainer">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 col-xs-12">
 					<div class="lt">
 					<h2 id="titles">
 						Pega 3 Más
