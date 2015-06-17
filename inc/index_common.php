@@ -1,3 +1,9 @@
+<?php 
+	include '../php/conexion.php';
+	// include '../php/reader.php';
+	include '../php/frontpagecontent.php';
+	mysqli_set_charset($dbconnect,'utf8');
+ ?>
 <!-- ADS SECTION -->
 <div id="AdSection">
 	<div class="container">
@@ -27,22 +33,22 @@
 			<div class="col-md-12" id="fpsection">
 				<p class="fptitle">FRONT PAGE NEWS</p>
 				<div class="col-md-4">
-					<p class="fptiles">YourLoteria</p>
-					<textarea readonly class="form-control" rows="4"></textarea>
+					<p class="fptiles"><?php echo $titlea ?></p>
+					<textarea readonly class="form-control" rows="4"><?php echo $contenta ?></textarea>
 					<div class="btncenter">
 						<button class="btn btn-default" type="submit" id="editbtn" data-toggle="modal" data-target="#modalno1">EDIT</button>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<p class="fptiles">Dominique Daniels Returns</p>
-					<textarea readonly class="form-control" rows="4"></textarea>
+					<p class="fptiles"><?php echo $titleb ?></p>
+					<textarea readonly class="form-control" rows="4"><?php echo $contentb ?></textarea>
 					<div class="btncenter">
 						<button class="btn btn-default" type="submit" id="editbtn" data-toggle="modal" data-target="#modalno2">EDIT</button>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<p class="fptiles">Lorem</p>
-					<textarea readonly class="form-control" rows="4"></textarea>
+					<p class="fptiles"><?php echo $titlec; ?></p>
+					<textarea readonly class="form-control" rows="4"><?php echo $titlec; ?></textarea>
 					<div class="btncenter">
 						<button class="btn btn-default test" type="button" id="editbtn" data-toggle="modal" data-target="#modalno3">EDIT</button>
 					</div>
