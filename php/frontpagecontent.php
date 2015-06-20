@@ -15,6 +15,7 @@
     $rowc = mysqli_fetch_array($c);
     $titlec = $rowc['title'];
     $contentc = $rowc['content'];
+    mysqli_set_charset($dbconnect,'utf8');
 
 
  ?>
