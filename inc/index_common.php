@@ -67,15 +67,28 @@
 			<div class="col-md-12" id="fpsection">
 				<p class="otn">Out-Standing news</p>
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>					
+					<p class="fptiles">Titulo</p>
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor </textarea>
+					<div class="btncenter">
+						<button class="btn btn-default test" type="button" id="editbtn" data-toggle="modal" data-target="#modalno2_1">EDIT</button>
+					</div>				
 				</div>
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>
+				<p class="fptiles">Titulo</p>
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor </textarea>
+					<div class="btncenter">
+						<button class="btn btn-default test" type="button" id="editbtn" data-toggle="modal" data-target="#modalno2_2">EDIT</button>
+					</div>
 				</div>	
 				<div class="col-md-4">
-					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</textarea>				
+				<p class="fptiles">Titulo</p>
+					<textarea readonly class="form-control" rows="5" id="outstxt">Lorem ipsum dolor </textarea>
+					<div class="btncenter">
+						<button class="btn btn-default test" type="button" id="editbtn" data-toggle="modal" data-target="#modalno2_3">EDIT</button>
+					</div>			
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+

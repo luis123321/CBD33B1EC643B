@@ -85,3 +85,93 @@
 </div>
 </form>
 <!-- End Models -->
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- OutStadings Models  -->
+<!-- Modals Edits -->
+<form action="php/insertoutstandings.php" method="post">
+<div class="modal fade" id="modalno2_1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"><?php echo $titlec ?></h4>
+      </div>
+      <div class="modal-body">
+        <!-- body -->
+        <p>Insert Image</p>
+          <input type="file" name="ipimage">
+          <br>
+          <p>Title</p>
+          <input type="text" name="iptitle">
+          <p>Description</p>
+          <textarea class="form-control" name="ipcontent" rows="4" placeholder="FONT PAGE CONTENT HERE"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+</form>
+<!-- End Models -->
+<!-- Modals Edits -->
+<form action="php/insertfrontpagecontent.php" method="post">
+<div class="modal fade" id="modalno2_2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"><?php echo $titlec ?></h4>
+      </div>
+      <div class="modal-body">
+        <!-- body -->
+
+          <p>Insert Image</p>
+          <input type="file">
+          <br>
+          <p>Title</p>
+          <input type="text">
+          <p>Description</p>
+          <textarea class="form-control" name="content" rows="4" placeholder="FONT PAGE CONTENT HERE"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+</form>
+<!-- End Models -->
+<!-- Modals Edits -->
+<form action="php/insertfrontpagecontent.php" method="post">
+<div class="modal fade" id="modalno2_3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"><?php echo $titlec ?></h4>
+      </div>
+      <div class="modal-body">
+        <!-- Body -->
+        <p>Insert Image</p>
+          <input type="file">
+          <br>
+          <p>Title</p>
+          <input type="text">
+          <p>Description</p>
+          <textarea class="form-control" name="content" rows="4" placeholder="FONT PAGE CONTENT HERE"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+</form>
+<!-- End Models -->
+<!-- End OutStandigs Models -->
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

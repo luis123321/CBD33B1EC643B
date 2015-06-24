@@ -42,7 +42,7 @@
 
 			</ul>
 			
-				<form action="../97A5B63AAF2BFDEELOGIN/php/logout.php" method="post" accept-charset="utf-8">
+				<form action="../97A5B63AAF2BFDEE/php/logout.php" method="post" accept-charset="utf-8">
 					<input type="submit" name="btnend" value="Logout" class="btn btn-default" id="btnend">
 				</form>
 				
@@ -58,6 +58,7 @@
 				<li class="tools"><a href="#">Tools</a></li>
 				<li class="ltrd"><a href="#">Lottery RD</a></li>
 				<li class="ltusa"><a href="#">Lottery USA</a></li>
+
 			</ul>
 	</div>
 </header>
